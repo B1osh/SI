@@ -1,0 +1,9 @@
+original:0.0
+perimeter:0.0
+gamble:0.0
+multiplier:0.0
+irregular:0.0
+timed:6.0
+offcentred:943.2675
+hardcore:0.0
+blind:0.0
