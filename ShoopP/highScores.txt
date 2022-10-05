@@ -1,0 +1,9 @@
+original:1547.4344
+perimeter:692.9899
+gamble:0.0
+multiplier:0.0
+irregular:94.99321
+timed:29.0
+offcentred:759.9659
+hardcore:294.01425
+blind:285.2093
