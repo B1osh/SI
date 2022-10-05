@@ -1,6 +1,8 @@
 # SI
 SI Android Game
 
+Made in Processing for Android
+
 SI is an Android game in which the player is trying to get two shapes to have equal area.
 
 The player simply slides their finger to control the radius of a randomly selected shape and wants to make that shape have equal area to another randomly selected shape.
